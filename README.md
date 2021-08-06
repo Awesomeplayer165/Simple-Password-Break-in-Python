@@ -1,5 +1,7 @@
 # Simple-Password-Break-in-Python
 
+A simple password breaching system written for Python.
+
 ## This demonstrates: 
 
 - How the comparison (==) function works in Python in a real-world cenario.
