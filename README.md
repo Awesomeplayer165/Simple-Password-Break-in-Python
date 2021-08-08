@@ -16,3 +16,7 @@ A simple password breaching system written for Python.
 
 - Crack more than 32 characters long
 - Crack special characters, including but not limited to #$%^&*(. 
+
+### Created and Maintained by:
+
+[Jacob Trentini](https://github.com/Awesomeplayer165)
